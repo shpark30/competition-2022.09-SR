@@ -1,3 +1,21 @@
+# Outline
+ - 2022.09 Dacon 주관 이미지 초해상화 대회 참여
+ - 목적 : AI 휴먼 이미지 생성 Output 화질 개선을 위한 이미지 초해상화 모델 POC
+ - 품질이 저하된 저해상도 촬영 이미지(512x512)를 고품질의 고해상도 촬영 이미지(2048x2048)로 생성
+
+# Description
+**Competition Link : [AI 양재 허브 인공지능 오픈소스 경진대회](https://dacon.io/competitions/official/235977/overview/description)<p>**
+
+**[Metric]**
+PSNR(Peak Signal-to-Noise Ratio)
+$$PSNR = 10log_{10}(\frac{R^2}{MSE})$$
+
+**[🚩 Score]**
+> **Private Score** : 23.18931 **[28th]** <p>
+**Public Score** : 23.73144 **[31th]** <p>
+---
+
+
 # HAT [[Paper Link]](https://arxiv.org/abs/2205.04437) [![Replicate](https://replicate.com/cjwbw/hat/badge)](https://replicate.com/cjwbw/hat)
 
 ### Activating More Pixels in Image Super-Resolution Transformer
