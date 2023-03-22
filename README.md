@@ -1,4 +1,4 @@
-[![Paper Review](https://img.shields.io/static/v1?label=Notion&message=PaperReview&color=gree)](https://www.notion.so/Paper-Review-2022-05-Activating-More-Pixels-in-Inmage-Super-Resolution-Transformer-HAT-HYBRID--56a38a77685549b0b7e95b4c91104976?pvs=4)
+[![Paper Review](https://img.shields.io/static/v1?label=PaperReview&message=Notion&color=gree)](https://www.notion.so/Paper-Review-2022-05-Activating-More-Pixels-in-Inmage-Super-Resolution-Transformer-HAT-HYBRID--56a38a77685549b0b7e95b4c91104976?pvs=4)
 
 # Outline
  - 2022.09 Dacon 주관 이미지 초해상화 대회 참여
