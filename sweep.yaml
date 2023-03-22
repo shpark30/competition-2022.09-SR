@@ -1,0 +1,34 @@
+program: hat/sweep.py
+project: SR_dacon
+entity: seohyeonpark30
+method: bayes
+metric:
+  name: psnr
+  goal: maximize
+  
+# early_terminate:
+#   type: hyperband
+#   max_iter: 3
+#   s: 2
+#   eta: 3
+  
+parameters:
+
+  optim:
+    values: ["AdamW", "Adamax", "Adam"]
+  b1:
+    distribution: uniform
+    min: 0.5
+    max: 0.99
+  b2:
+    distribution: uniform
+    min: 0.5
+    max: 0.99
+  weight_decay:
+    distribution: uniform
+    min: 0.001
+    max: 0.1
+  lr:
+    distribution: uniform
+    min: 1e-5
+    max: 2e-4
