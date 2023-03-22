@@ -1,3 +1,5 @@
+[![Paper Review](https://img.shields.io/static/v1?label=Notion&message=PaperReview&color=gree)](https://www.notion.so/Paper-Review-2022-05-Activating-More-Pixels-in-Inmage-Super-Resolution-Transformer-HAT-HYBRID--56a38a77685549b0b7e95b4c91104976?pvs=4)
+
 # Outline
  - 2022.09 Dacon 주관 이미지 초해상화 대회 참여
  - 목적 : AI 휴먼 이미지 생성 Output 화질 개선을 위한 이미지 초해상화 모델 POC
@@ -13,8 +15,8 @@ $$PSNR = 10log_{10}(\frac{R^2}{MSE})$$
 **[🚩 Score]**
 > **Private Score** : 23.18931 **[28th]** <p>
 **Public Score** : 23.73144 **[31th]** <p>
----
 
+<br>
 
 # HAT [[Paper Link]](https://arxiv.org/abs/2205.04437) [![Replicate](https://replicate.com/cjwbw/hat/badge)](https://replicate.com/cjwbw/hat)
 
